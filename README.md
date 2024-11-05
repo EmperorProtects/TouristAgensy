@@ -12,4 +12,6 @@ Technologies Used
     Frontend: HTML, CSS, JavaScript
     Backend: Node.js (Express)
     APIs: Integrated with various third-party APIs for location and weather data
+How to deploy:
+    
 
